@@ -1,2 +1,2 @@
 # Minimum-Jerk-trajectory-MJT
-MJT for straight line , square and circle
+MJT function generating straight line , square and circle trajectory.
